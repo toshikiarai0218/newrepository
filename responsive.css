@@ -1,0 +1,15 @@
+@charset"UTF-8";
+
+@media all and (max-width: 1000px) {
+    
+}
+
+@media all and (max-width: 670px) {
+    .skills {
+        width: 100%;
+    }
+    
+    .skill-items {
+        width: 50%;
+    }
+}
